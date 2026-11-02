@@ -669,6 +669,7 @@ body:has(.nav-toggle:checked) {
     color: var(--color-white);
     font-family: var(--font-heading);
     font-size: 17px;
+    font-weight: 400;
     letter-spacing: 1.5px;
     line-height: normal;
     text-transform: uppercase;
