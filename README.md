@@ -1,8 +1,7 @@
 # Keepsake — landing page
 
 (лабораторна робота №7, завдання 4).
-
-**Демо:** https://airnova567.github.io/landing-keepsake/
+https://airnova567.github.io/landing-keepsake/
 
 ## Технології
 
